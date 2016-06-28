@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="84" started-at="2016-06-27T08:55:02Z" finished-at="2016-06-27T08:55:02Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="84" started-at="2016-06-27T08:55:02Z" finished-at="2016-06-27T08:55:02Z">
+      <class name="mytest.demo.AppTest">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:testApp(mytest.demo.AppTest)]" name="testApp" duration-ms="6" started-at="2016-06-27T16:55:02Z" finished-at="2016-06-27T16:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- mytest.demo.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

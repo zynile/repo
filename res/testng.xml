@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="mySuite1我的测试套件">
+    <test name="mytest12我的测试项目">
+        <classes>
+            <class name="mytest.demo.testngdemo.java" />
+        </classes>
+    </test>
+</suite>

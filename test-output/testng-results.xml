@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13749" started-at="2016-06-23T07:10:58Z" finished-at="2016-06-23T07:11:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13749" started-at="2016-06-23T07:10:58Z" finished-at="2016-06-23T07:11:12Z">
+      <class name="mytest.demo.testngdemo">
+        <test-method status="PASS" signature="startFirefox()[pri:0, instance:mytest.demo.testngdemo@28d25987]" name="startFirefox" duration-ms="13732" started-at="2016-06-23T15:10:58Z" finished-at="2016-06-23T15:11:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startFirefox -->
+      </class> <!-- mytest.demo.testngdemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
