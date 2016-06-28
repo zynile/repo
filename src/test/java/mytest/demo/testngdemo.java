@@ -39,5 +39,6 @@ public class testngdemo {
 		assertEquals("百度一下，你就知道",driver.getTitle());
 		Thread.sleep(2000);
 		driver.quit();
+		// add by bingo 2016-06-28
 	}
 }
